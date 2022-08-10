@@ -3,50 +3,64 @@
       {
         "id": 1,
         "productName": "Oversize female shirt",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 39
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 39,
+        "category": "shirt"
       },
       {
         "id": 2,
         "productName": "Body skirt",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 59
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 59,
+        "category": "skirt"
       },
       {
         "id": 3,
         "productName": "Oversize shirt",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 70
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 70,
+        "category": "shirt"
+
       },
       {
         "id": 4,
         "productName": "Silk long skirt",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 22
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 22,
+        "category": "skirt"
+
       },
       {
         "id": 5,
         "productName": "Hoodie",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 10
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 10,
+        "category": "top"
+
       },
       {
         "id": 6,
         "productName": "Bed skirt",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 39
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 39,
+        "category": "skirt"
+        
       },
       {
         "id": 7,
         "productName": "Jeans",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 19
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 19,
+        "category": "jeans"
+
       },
       {
         "id": 8,
         "productName": "Woman blazer",
-        "imgURL": "https://picsum.photos/1280/720",
-        "price": 20
+        "imgURL": "https://picsum.photos/900/305",
+        "price": 20,
+        "category": "top"
+
       }
     ]
   }
