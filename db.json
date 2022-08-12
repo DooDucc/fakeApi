@@ -5,84 +5,96 @@
         "productName": "Oversize female shirt",
         "imgUrl": "https://i.picsum.photos/id/563/300/400.jpg?hmac=er94JFXhd3HOUDDjG2DWwtkvyEFMGtkMvFHik1p-Gtw",
         "price": 39,
-        "category": "Shirt"
+        "category": "Shirt",
+        "quantity": 1
       },
       {
         "id": 2,
         "productName": "Body skirt",
         "imgUrl": "https://i.picsum.photos/id/117/300/400.jpg?hmac=iYHXWPO_vbtH3EckvpiwtuBYZ9ADRJVCdSnOjoVh9gY",
         "price": 59,
-        "category": "Skirt"
+        "category": "Skirt",
+        "quantity": 1
       },
       {
         "id": 3,
         "productName": "Oversize shirt",
         "imgUrl": "https://i.picsum.photos/id/617/300/400.jpg?hmac=ekdhdh-9DlJklGnCP44h63h--qAsZ3mjUrMKibCx0DY",
         "price": 70,
-        "category": "Shirt"
+        "category": "Shirt",
+        "quantity": 1
       },
       {
         "id": 4,
         "productName": "Silk long skirt",
         "imgUrl": "https://i.picsum.photos/id/127/300/400.jpg?hmac=p9gzHC1bB6MdUgENtAvrwZe10QcZ4hgXb4601WX24-k",
         "price": 22,
-        "category": "Skirt"
+        "category": "Skirt",
+        "quantity": 1
       },
       {
         "id": 5,
         "productName": "Hoodie",
         "imgUrl": "https://i.picsum.photos/id/888/300/400.jpg?hmac=rBU7n6EeZFrJOkyf1LAKs-r3uKtTRH5LT5nMavqHoxM",
         "price": 10,
-        "category": "Top"
+        "category": "Top",
+        "quantity": 1
       },
       {
         "id": 6,
         "productName": "Bed skirt",
         "imgUrl": "https://i.picsum.photos/id/476/300/400.jpg?hmac=n7L9jp5OaE8zxSkq_vDlGcTTIi6cu8Tl-GPDZid3aIM",
         "price": 39,
-        "category": "Skirt"
+        "category": "Skirt",
+        "quantity": 1
       },
       {
         "id": 7,
         "productName": "Jeans",
         "imgUrl": "https://i.picsum.photos/id/323/300/400.jpg?hmac=_nldyDr4cMXduk9_xdU7qkWPIaeXEpwo4XekefVnkB0",
         "price": 19,
-        "category": "Jeans"
+        "category": "Jeans",
+        "quantity": 1
       },
       {
         "id": 8,
         "productName": "Woman blazer",
         "imgUrl": "https://i.picsum.photos/id/136/300/400.jpg?hmac=WKenrQIYy-22IVupKDCZ422ojWMAy6Hy7clcVDJJ9zg",
         "price": 59,
-        "category": "Top"
+        "category": "Top",
+        "quantity": 1
       },
       {
         "id": 9,
         "productName": "Distress Jeans",
         "imgUrl": "https://i.picsum.photos/id/975/300/400.jpg?hmac=NkddOS5jLHo9sJZJenGzzJ2jmetr80tSjy4NYE49MMY",
         "price": 69,
-        "category": "Jeans"
+        "category": "Jeans",
+        "quantity": 1
       },
       {
         "id": 10,
         "productName": "T-shirt",
         "imgUrl": "https://i.picsum.photos/id/562/300/400.jpg?hmac=TWDoWjPIGe6D_jCApO3zOpEu7AYYgiYtbYKyHdgOAz4",
         "price": 99,
-        "category": "Shirt"
+        "category": "Shirt",
+        "quantity": 1
       },
       {
         "id": 11,
         "productName": "Jacket",
         "imgUrl": "https://i.picsum.photos/id/343/300/400.jpg?hmac=7hv7aslIxkP4bFk_BpT1nk1-ZD_dCwjdcLCRWvLkmAM",
         "price": 15,
-        "category": "Top"
+        "category": "Top",
+        "quantity": 1
       },
       {
         "id": 12,
         "productName": "Slimfit Tee",
         "imgUrl": "https://i.picsum.photos/id/343/300/400.jpg?hmac=7hv7aslIxkP4bFk_BpT1nk1-ZD_dCwjdcLCRWvLkmAM",
         "price": 33,
-        "category": "Shirt"
+        "category": "Shirt",
+        "quantity": 1
       }
     ]
   }
