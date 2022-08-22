@@ -1,0 +1,658 @@
+{
+    "game": [
+        {
+            "id": 1,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/380/200/200.jpg?hmac=kRl3E5LKObBjVmZbpz41OB8xNcPHPWwn_KlpTqhcaOk",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": true
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/523/200/200.jpg?hmac=d1qFeOBBhPqpCZ0U-197Ibo1qK82CmzUfDfKVS70O24",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": true
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/977/200/200.jpg?hmac=bhLVu-kBB_plx-DkWXz4gYn-ViPAhDjTtGFwu143FiA",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/688/200/200.jpg?hmac=SPM6DXITCd9R3P5BMqgFMw6QdW-SJ2mPKUvq2g9eF-g",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": true
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/619/200/200.jpg?hmac=kS8OI8cYlvghz5FZaiYdIx96pUPQ30oF6bIsAg3AOZ4",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": true
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/573/200/200.jpg?hmac=_P1Ut7_f-iqW1IMep_N04u4qKZydb6hosT2QKXiMNVo",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": true
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/911/200/200.jpg?hmac=0atndFqwalkRV7EdIfbZZ_7srC7u_3UtGX9T1vd-sfk",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": true
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/898/200/200.jpg?hmac=OJ_q58cXkhJJW-v5_I8OBbmtuEPORKBZ5hXG9PnO4QM",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": true
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/638/200/200.jpg?hmac=64UpQ4ouFUNEG9cnXLQ9GxchDShg-mL1rdCrZGfc94U",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": true
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "topic": "What animal is it?",
+            "img": "https://i.picsum.photos/id/847/200/200.jpg?hmac=ET2eUKsG4SCaCnGMrTpgEBXpx7YG1j2X8DpBnHC25wA",
+            "questions": [
+                {
+                    "id":  1,
+                    "answer": "dog",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "answer": "chicken",
+                    "result": true
+                },
+                {
+                    "id":  3,
+                    "answer": "cat",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "answer": "pig",
+                    "result": false
+                }
+            ]
+        }
+    ],
+    "listen": [
+        {
+            "id": 1,
+            "topic": "Who are you?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/844/200/200.jpg?hmac=blYHTv1EUQA2puhc8O_7gTL4H6Y8FgSmVXDYEJqXWdQ",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/217/200/200.jpg?hmac=LoNAUhfCfURrqYjw6WECEWybn4B8y37k5G2odewlZ_Y",
+                    "result": true
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/1010/200/200.jpg?hmac=030jCT8DyI2wW-CYue7-l9xlHBAGpacaSJ6tYnnka3I",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/336/200/200.jpg?hmac=VZ7MzNM30jINYNf5Oj_8zqPLTDAyKDk6eXWTGnNb4bU",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "topic": "How much is it?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/1021/200/200.jpg?hmac=5Jzd15OWoPw0fwvsvL05A1BAIN_B543TvjlxqGk1PDU",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/490/200/200.jpg?hmac=7WZhaN9NS8sb08YmpHre_3NGnVUsmH8X5W_GlG2Mry4",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/472/200/200.jpg?hmac=PScxKeNxgxcauarhbWIWesyo4VsouCtfdX8fNTy9HRI",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/325/200/200.jpg?hmac=ZCsEKv0ID3Pljov7A1Ljhc4gOcr8fsqzEry_bTjeY2s",
+                    "result": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "topic": "What's up?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/38/200/200.jpg?hmac=dmdbTgVfAkQ41DmAJKt2u_w6vmqFO_UQ_Ro7F9U-Yws",
+                    "result": true
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/143/200/200.jpg?hmac=zGj8dhmmqaaQZDcHhU9C0itdL12zcGTpuVdQiVrYiEQ",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/461/200/200.jpg?hmac=OfKixfjCbSjC-h3P78PbMNsJqVCnAClKqNmrUCONSw4",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/119/200/200.jpg?hmac=JGrHG7yCKfebsm5jJSWw7F7x2oxeYnm5YE_74PhnRME",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "topic": "What have you been doing?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/347/200/200.jpg?hmac=HdR0jM_L0Ly35FyTiC7c4NSIkzL0lE_cvesfe-dWAVk",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/910/200/200.jpg?hmac=5y7FBcwrEQLaT1hO3VufjbQNxx_eg-znDlA1JclTpDQ",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/361/200/200.jpg?hmac=8pPTUqe61Cxj4FYarGS9vZKtqUSjAzxOQJ0zBIHq28o",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/267/200/200.jpg?hmac=Y1nyfMYjg-MPsZP0aKx1TqI1ogQRSYtHkM5kpZpybqk",
+                    "result": true
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "topic": "What is your name?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/200/200/200.jpg?hmac=mk1Tu6dXHQvpaA8RfxlDUZjbWG23krNkiB9kyYoEmO8",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/280/200/200.jpg?hmac=jjE26x23XLyRTL5st1-nb_BAHldv1V3JoFRn4g_nN04",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/209/200/200.jpg?hmac=hsby8v-4ueyQ64FWn-Eqn4P9AtOM7OCsjA_L8rxOwHM",
+                    "result": true
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/236/200/200.jpg?hmac=BntZCNnsVBEqCPw_5q7AhpFIO2vQrHXcSLFR_C1i4fo",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "topic": "How do you do?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/891/200/200.jpg?hmac=J19K6yDbzNDUjkInb56-h-n_xM3i40GCfHWor0YKgyU",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/1075/200/200.jpg?hmac=a9PcCsXBonPZ7LCLyWX6dHM1XGbcojML0qhnq-Ee4a4",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/77/200/200.jpg?hmac=RaFJkrixMn3dR7INSPWcmjC7HCxmggmF5mTlMpyEHsQ",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/367/200/200.jpg?hmac=6NmiWxiENMBIeAXEfu9fN20uigiBudgYzqHfz-eXZYk",
+                    "result": true
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "topic": "What are your hobbies?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/1050/200/200.jpg?hmac=cq2YpkyrMed7ZhJMjcuNfGZtfsZFRhooscxiGkOcgD4",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/879/200/200.jpg?hmac=_4fWz44KoPcfzc5VRuEhms_-fXjdx1VsijYO3xVD9b0",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/599/200/300.jpg?hmac=E2gUK85wncj5qALDLpEjQzqgfazui9pDGMgzVWMpqo4",
+                    "result": true
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/733/200/200.jpg?hmac=ci3XeHM32Dpcvwg7zqGHqI0dgL_YlvKuzbBhxaB7DhM",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "topic": "How are things going with you?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/951/200/200.jpg?hmac=FVINiB5mMdXIUDDk4AYptO4s4A2ETDNX4n3RSDaoB4E",
+                    "result": true
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/469/200/200.jpg?hmac=r_nEPJ5ExnhVEQSrNc19WUPConxJzBC929FJHl_Y5N4",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/175/200/200.jpg?hmac=5rzD884Hqi9oWr_n5vg0XSc9f6yMlPotvKa8Y0cVzd4",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/383/200/200.jpg?hmac=rXabQJHkUdhkZ467kU2O2mFC-ZufkuYob-xSiZEbNWc",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "topic": "Which company do you work for?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/330/200/200.jpg?hmac=Qo-hwVGhetTRMtlg4NE-HSzGQmvEC4vPxFFp3foXOHM",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/886/200/200.jpg?hmac=pfmGQi7EpajLoJI0tKTPTUwOPQtH9YwE-wNl_kr7ErI",
+                    "result": true
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/910/200/200.jpg?hmac=5y7FBcwrEQLaT1hO3VufjbQNxx_eg-znDlA1JclTpDQ",
+                    "result": false
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/44/200/200.jpg?hmac=W5KcqhapHjBgEIHGQpQnX6o9jdOXQEVCKEdGIohjisY",
+                    "result": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "topic": "Where are you coming from?",
+            "questions": [
+                {
+                    "id":  1,
+                    "pic": "https://i.picsum.photos/id/281/200/200.jpg?hmac=5FvZ-Y5zbbpS3-mJ_mp6-eH61MkwhUJi9qnhscegqkY",
+                    "result": false
+                },
+                {
+                    "id":  2,
+                    "pic": "https://i.picsum.photos/id/923/200/200.jpg?hmac=3VHvOqFmO1AmGdpW-XcIVVb5CSOm5AwgyYRt9jYWAvo",
+                    "result": false
+                },
+                {
+                    "id":  3,
+                    "pic": "https://i.picsum.photos/id/619/200/200.jpg?hmac=kS8OI8cYlvghz5FZaiYdIx96pUPQ30oF6bIsAg3AOZ4",
+                    "result": true
+                },
+                {
+                    "id":  4,
+                    "pic": "https://i.picsum.photos/id/935/200/200.jpg?hmac=WNkIQ-NNhosb-4Qfz8Tixwp7-HVS540Z2dS0VDyJ5ac",
+                    "result": false
+                }
+            ]
+        }
+    ],
+    "study": [
+        {
+            "id": 1,
+            "word": "Baby",
+            "ipa": "/'bei.bi/",
+            "mean": "em bé"
+        },
+        {
+            "id": 2,
+            "word": "Brother",
+            "ipa": "`brʌð.ər/",
+            "mean": "anh/em trai"
+        },
+        {
+            "id": 3,
+            "word": "Daddy",
+            "ipa": "/`dæd.i/ ",
+            "mean": "bố"
+        },
+        {
+            "id": 4,
+            "word": "Family",
+            "ipa": "/fæm.əl.i/",
+            "mean": "gia đình"
+        },
+        {
+            "id": 5,
+            "word": "Grandma",
+            "ipa": "/1græn.ma:/",
+            "mean": "bà"
+        },
+        {
+            "id": 6,
+            "word": "Grandpa",
+            "ipa": "/`græn.pa:/",
+            "mean": "ông"
+        },
+        {
+            "id": 7,
+            "word": "Parents",
+            "ipa": "/`peə.rənt/",
+            "mean": "bố mẹ"
+        },
+        {
+            "id": 8,
+            "word": "Sister",
+            "ipa": "/`sis.tər/",
+            "mean": "chị/em gái"
+        },
+        {
+            "id": 9,
+            "word": "uncle",
+            "ipa": "/`ʌŋkl/",
+            "mean": "chú/bác"
+        },
+        {
+            "id": 10,
+            "word": "aunt",
+            "ipa": "/ænt/-/a:nt/",
+            "mean": "dì/cô"
+        },
+        {
+            "id": 11,
+            "word": "blue",
+            "ipa": "/blu:/",
+            "mean": "màu xanh da trời"
+        },
+        {
+            "id": 12,
+            "word": "pink",
+            "ipa": "/piɳk/",
+            "mean": "hồng"
+        },
+        {
+            "id": 13,
+            "word": "green",
+            "ipa": "/gri:n/",
+            "mean": "màu xanh lá cây"
+        },
+        {
+            "id": 14,
+            "word": "purple",
+            "ipa": "/`pə:pl/",
+            "mean": "màu tím"
+        },
+        {
+            "id": 15,
+            "word": "red",
+            "ipa": "/red/",
+            "mean": "màu đỏ"
+        },
+        {
+            "id": 16,
+            "word": "yellow",
+            "ipa": "/`jelou/",
+            "mean": "màu vàng"
+        },
+        {
+            "id": 17,
+            "word": "black",
+            "ipa": "/blæk/",
+            "mean": "màu đen"
+        },
+        {
+            "id": 18,
+            "word": "white",
+            "ipa": "/wait/",
+            "mean": "màu trắng"
+        },
+        {
+            "id": 19,
+            "word": "brown",
+            "ipa": "/braun/",
+            "mean": "màu nâu"
+        },
+        {
+            "id": 20,
+            "word": "grey",
+            "ipa": "/grei/",
+            "mean": "màu xám"
+        }
+    ]
+}
