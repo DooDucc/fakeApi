@@ -538,120 +538,141 @@
             "id": 1,
             "word": "Baby",
             "ipa": "/'bei.bi/",
+            "pic": "https://i.picsum.photos/id/935/200/200.jpg?hmac=WNkIQ-NNhosb-4Qfz8Tixwp7-HVS540Z2dS0VDyJ5ac",
             "mean": "em bé"
         },
         {
             "id": 2,
             "word": "Brother",
             "ipa": "`brʌð.ər/",
+            "pic": "https://i.picsum.photos/id/619/200/200.jpg?hmac=kS8OI8cYlvghz5FZaiYdIx96pUPQ30oF6bIsAg3AOZ4",
             "mean": "anh/em trai"
         },
         {
             "id": 3,
             "word": "Daddy",
             "ipa": "/`dæd.i/ ",
+            "pic": "https://i.picsum.photos/id/281/200/200.jpg?hmac=5FvZ-Y5zbbpS3-mJ_mp6-eH61MkwhUJi9qnhscegqkY",
             "mean": "bố"
         },
         {
             "id": 4,
             "word": "Family",
             "ipa": "/fæm.əl.i/",
+            "pic": "https://i.picsum.photos/id/44/200/200.jpg?hmac=W5KcqhapHjBgEIHGQpQnX6o9jdOXQEVCKEdGIohjisY",
             "mean": "gia đình"
         },
         {
             "id": 5,
             "word": "Grandma",
             "ipa": "/1græn.ma:/",
+            "pic": "https://i.picsum.photos/id/44/200/200.jpg?hmac=W5KcqhapHjBgEIHGQpQnX6o9jdOXQEVCKEdGIohjisY",
             "mean": "bà"
         },
         {
             "id": 6,
             "word": "Grandpa",
             "ipa": "/`græn.pa:/",
+            "pic": "https://i.picsum.photos/id/469/200/200.jpg?hmac=r_nEPJ5ExnhVEQSrNc19WUPConxJzBC929FJHl_Y5N4",
             "mean": "ông"
         },
         {
             "id": 7,
             "word": "Parents",
             "ipa": "/`peə.rənt/",
+            "pic": "https://i.picsum.photos/id/733/200/200.jpg?hmac=ci3XeHM32Dpcvwg7zqGHqI0dgL_YlvKuzbBhxaB7DhM",
+
             "mean": "bố mẹ"
         },
         {
             "id": 8,
             "word": "Sister",
             "ipa": "/`sis.tər/",
+            "pic": "https://i.picsum.photos/id/280/200/200.jpg?hmac=jjE26x23XLyRTL5st1-nb_BAHldv1V3JoFRn4g_nN04",
             "mean": "chị/em gái"
         },
         {
             "id": 9,
             "word": "uncle",
             "ipa": "/`ʌŋkl/",
+            "pic": "https://i.picsum.photos/id/367/200/200.jpg?hmac=6NmiWxiENMBIeAXEfu9fN20uigiBudgYzqHfz-eXZYk",
             "mean": "chú/bác"
         },
         {
             "id": 10,
             "word": "aunt",
             "ipa": "/ænt/-/a:nt/",
+            "pic": "https://i.picsum.photos/id/280/200/200.jpg?hmac=jjE26x23XLyRTL5st1-nb_BAHldv1V3JoFRn4g_nN04",
             "mean": "dì/cô"
         },
         {
             "id": 11,
             "word": "blue",
             "ipa": "/blu:/",
+            "pic": "https://i.picsum.photos/id/77/200/200.jpg?hmac=RaFJkrixMn3dR7INSPWcmjC7HCxmggmF5mTlMpyEHsQ",
             "mean": "màu xanh da trời"
         },
         {
             "id": 12,
             "word": "pink",
             "ipa": "/piɳk/",
+            "pic": "https://i.picsum.photos/id/1075/200/200.jpg?hmac=a9PcCsXBonPZ7LCLyWX6dHM1XGbcojML0qhnq-Ee4a4",
             "mean": "hồng"
         },
         {
             "id": 13,
             "word": "green",
             "ipa": "/gri:n/",
+            "pic": "https://i.picsum.photos/id/891/200/200.jpg?hmac=J19K6yDbzNDUjkInb56-h-n_xM3i40GCfHWor0YKgyU",
             "mean": "màu xanh lá cây"
         },
         {
             "id": 14,
             "word": "purple",
             "ipa": "/`pə:pl/",
+            "pic": "https://i.picsum.photos/id/236/200/200.jpg?hmac=BntZCNnsVBEqCPw_5q7AhpFIO2vQrHXcSLFR_C1i4fo",
             "mean": "màu tím"
         },
         {
             "id": 15,
             "word": "red",
             "ipa": "/red/",
+            "pic": "https://i.picsum.photos/id/209/200/200.jpg?hmac=hsby8v-4ueyQ64FWn-Eqn4P9AtOM7OCsjA_L8rxOwHM",
             "mean": "màu đỏ"
         },
         {
             "id": 16,
             "word": "yellow",
             "ipa": "/`jelou/",
+            "pic": "https://i.picsum.photos/id/200/200/200.jpg?hmac=mk1Tu6dXHQvpaA8RfxlDUZjbWG23krNkiB9kyYoEmO8",
             "mean": "màu vàng"
         },
         {
             "id": 17,
             "word": "black",
             "ipa": "/blæk/",
+            "pic": "https://i.picsum.photos/id/280/200/200.jpg?hmac=jjE26x23XLyRTL5st1-nb_BAHldv1V3JoFRn4g_nN04",
             "mean": "màu đen"
         },
         {
             "id": 18,
             "word": "white",
             "ipa": "/wait/",
+            "pic": "https://i.picsum.photos/id/280/200/200.jpg?hmac=jjE26x23XLyRTL5st1-nb_BAHldv1V3JoFRn4g_nN04",
             "mean": "màu trắng"
         },
         {
             "id": 19,
             "word": "brown",
             "ipa": "/braun/",
+            "pic": "https://i.picsum.photos/id/733/200/200.jpg?hmac=ci3XeHM32Dpcvwg7zqGHqI0dgL_YlvKuzbBhxaB7DhM",
             "mean": "màu nâu"
         },
         {
             "id": 20,
             "word": "grey",
             "ipa": "/grei/",
+            "pic": "https://i.picsum.photos/id/77/200/200.jpg?hmac=RaFJkrixMn3dR7INSPWcmjC7HCxmggmF5mTlMpyEHsQ",
             "mean": "màu xám"
         }
     ]
