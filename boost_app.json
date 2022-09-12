@@ -1,0 +1,271 @@
+{
+    "Category": [
+        {
+            "id": 1,
+            "category": "Math",
+            "roomName": "room Name 1",
+            "rewards": 1000,
+            "isExpanded": false,
+            "subCategory": [
+                {
+                    "id": 1,
+                    "value": "Equations"
+                },
+                {
+                    "id": 2,
+                    "value": "Parallel line"
+                },
+                {
+                    "id": 3,
+                    "value": "Polygons"
+                },
+                {
+                    "id": 4,
+                    "value": "Triangles"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "category": "History",
+            "roomName": "room Name 2",
+            "rewards": 2000,
+            "isExpanded": false,
+            "subCategory": [
+                {
+                    "id": 1,
+                    "value": "Germany"
+                },
+                {
+                    "id": 2,
+                    "value": "England"
+                },
+                {
+                    "id": 3,
+                    "value": "America"
+                },
+                {
+                    "id": 4,
+                    "value": "VietNam"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "category": "Physics",
+            "roomName": "room Name 3",
+            "rewards": 1000,
+            "isExpanded": false,
+            "subCategory": [
+                {
+                    "id": 1,
+                    "value": "Electric elements"
+                },
+                {
+                    "id": 2,
+                    "value": "Gravity"
+                },
+                {
+                    "id": 3,
+                    "value": "Motion"
+                },
+                {
+                    "id": 4,
+                    "value": "Newtion's laws"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "category": "Chemistry",
+            "roomName": "room Name 4",
+            "rewards": 7000,
+            "isExpanded": false,
+            "subCategory": [
+                {
+                    "id": 1,
+                    "value": "Measurements"
+                },
+                {
+                    "id": 2,
+                    "value": "Gases"
+                },
+                {
+                    "id": 3,
+                    "value": "Axit"
+                },
+                {
+                    "id": 4,
+                    "value": "Bazo"
+                }
+            ]
+        }
+    ],
+    "DailyQuest": [
+        {
+            "id": 1,
+            "category": "Math",
+            "roomName": "room Name 1",
+            "img": "https://i.picsum.photos/id/769/200/300.jpg?hmac=cl3KEs924CuE_nF1wC98S7NBc8JPXkf0hlwtPXGIIhM",
+            "rewards": 1000,
+            "rankRequired": 1
+        },
+        {
+            "id": 2,
+            "category": "History",
+            "roomName": "room Name 2",
+            "img": "https://i.picsum.photos/id/568/200/300.jpg?hmac=vQmkZRQt1uS-LMo2VtIQ7fn08mmx8Fz3Yy3lql5wkzM",
+            "rewards": 2000
+        },
+        {
+            "id": 3,
+            "category": "Physics",
+            "roomName": "room Name 3",
+            "img": "https://i.picsum.photos/id/44/200/300.jpg?hmac=XVdwVrJGHwXEzGWC6cZoztYj9nazQEbeWv9VrPmoqps",
+            "rewards": 1000
+        },
+        {
+            "id": 4,
+            "category": "Chemistry",
+            "roomName": "room Name 4",
+            "img": "https://i.picsum.photos/id/766/200/300.jpg?hmac=yPmyGIdCe3ag8jlW87DzVijW_xLn1vzaiwrJvIChFcM",
+            "rewards": 7000
+        }
+    ],
+    "Quiz": [
+        {
+            "id": 1,
+            "roomId": 1,
+            "questions": [
+                {
+                    "question": "What’s the biggest planet in our solar system?",
+                    "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+                    "correct_option": "Jupiter"
+                },
+                {
+                    "question": "What attraction in India is one of the famus in the world?",
+                    "options": ["Chand Minar", "Taj Mahal", "Stadium", "Bali"],
+                    "correct_option": "Taj Mahal"
+                },
+                {
+                    "question": "What English word has three consecutive doule letters ?",
+                    "options": ["shopkeeper", "door", "bookkeeper", "three"],
+                    "correct_option": "three"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "roomId": 2,
+            "questions": [
+                {
+                    "question": "What’s the biggest planet in our solar system?",
+                    "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+                    "correct_option": "Jupiter"
+                },
+                {
+                    "question": "10 fishes are in the tank , 2 down 4 swim away and 3 died, How many are left ?",
+                    "options": ["10", "3", "0", "1"],
+                    "correct_option": "3"
+                },
+                {
+                    "question": "A grandfather, two fathers and two sons went to the movie theater together and everyone bought one movie ticket each. How many tickets did they buy in total?",
+                    "options": ["3", "2", "5", "1"],
+                    "correct_option": "2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "roomId": 3,
+            "questions": [
+                {
+                    "question": "What’s the biggest planet in our solar system?",
+                    "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+                    "correct_option": "Jupiter"
+                },
+                {
+                    "question": "What attraction in India is one of the famus in the world?",
+                    "options": ["Chand Minar", "Taj Mahal", "Stadium", "Bali"],
+                    "correct_option": "Taj Mahal"
+                },
+                {
+                    "question": "What land animal can open its mouth the widest?",
+                    "options": ["Alligator", "Crocodile", "Baboon", "Hippo"],
+                    "correct_option": "Hippo"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "roomId": 4,
+            "questions": [
+                {
+                    "question": "What’s the biggest planet in our solar system?",
+                    "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+                    "correct_option": "Jupiter"
+                },
+                {
+                    "question": "What attraction in India is one of the famus in the world?",
+                    "options": ["Chand Minar", "Taj Mahal", "Stadium", "Bali"],
+                    "correct_option": "Taj Mahal"
+                },
+                {
+                    "question": "What land animal can open its mouth the widest?",
+                    "options": ["Alligator", "Crocodile", "Baboon", "Hippo"],
+                    "correct_option": "Hippo"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "roomId": 5,
+            "questions": [
+                {
+                    "question": "What’s the biggest planet in our solar system?",
+                    "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+                    "correct_option": "Jupiter"
+                },
+                {
+                    "question": "What attraction in India is one of the famus in the world?",
+                    "options": ["Chand Minar", "Taj Mahal", "Stadium", "Bali"],
+                    "correct_option": "Taj Mahal"
+                },
+                {
+                    "question": "What land animal can open its mouth the widest?",
+                    "options": ["Alligator", "Crocodile", "Baboon", "Hippo"],
+                    "correct_option": "Hippo"
+                }
+            ]
+        }
+    ],
+    "Users": [
+        {
+            "id": 1,
+            "userName": "xuanthanh",
+            "password": "123456",
+            "isVerifyEmail": true,
+            "address": "Ha Noi city",
+            "avatar": "https://khoinguonsangtao.vn/wp-content/uploads/2022/05/anh-avatar-dep-ngau-hinh-dai-dien.jpg",
+            "fullname": "Nguyen Xuan Thanh"
+        },
+        {
+            "id": 2,
+            "userName": "dohoan",
+            "password": "123456",
+            "isVerifyEmail": true,
+            "address": "Ho Chi Minh city",
+            "avatar": "https://anhdephd.vn/wp-content/uploads/2022/03/anh-dai-dien-nu-deo-kinh-chat-600x600.jpg",
+            "fullname": "Do Hoan"
+        },
+        {
+            "id": 3,
+            "userName": "sontung",
+            "password": "123456",
+            "isVerifyEmail": true,
+            "address": "Hai Phong city",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaL05I34grKqr_fUqyZF_66EgF-MKGdhiQXyO2FDzc124PQduW04PlSEy5F3XV97aGloE&usqp=CAU",
+            "fullname": "Son Tung"
+        }
+    ]
+}
