@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "Hats",
+        "items": [
+            {
+                "id": 1,
+                "code": "#1265433",
+                "img": "https://i.picsum.photos/id/903/100/100.jpg?hmac=QD22q09K2-xcctGf5IvWnaCKl4tLQWwG_H0IFgh0f3E",
+                "category": "Scholar",
+                "sol": 40,
+                "lv": 4
+            },
+            {
+                "id": 2,
+                "code": "#3123433",
+                "img": "https://i.picsum.photos/id/191/100/100.jpg?hmac=pemmPV2vXzPN8h_ona4f7TI67NwAvroAWZqA2ZwyPD4",
+                "category": "Hunter",
+                "sol": 50,
+                "lv": 5
+            },
+            {
+                "id": 3,
+                "code": "#221231",
+                "img": "https://i.picsum.photos/id/692/100/100.jpg?hmac=CMrTNQngSRzwxmHrkPDytLxZjpLDqnG3LChkxWvOX30",
+                "category": "Detective",
+                "sol": 70,
+                "lv": 10
+            },
+            {
+                "id": 4,
+                "code": "#442123",
+                "img": "https://i.picsum.photos/id/106/100/100.jpg?hmac=w9XtQj6WaUdA2Z29vJBMC7ZLKKL8Z-HGVe4QMiqTeKU",
+                "category": "Scholar",
+                "sol": 60,
+                "lv": 7
+            },
+            {
+                "id": 5,
+                "code": "#5521312",
+                "img": "https://i.picsum.photos/id/922/100/100.jpg?hmac=Vl2gKzuSlc2xQOe9H8w_OuezaYx-wv5MHZRLfmQny_E",
+                "category": "Detective",
+                "sol": 90,
+                "lv": 12
+            },
+            {
+                "id": 6,
+                "code": "#6634123",
+                "img": "https://i.picsum.photos/id/547/100/100.jpg?hmac=GzEraiphe5k-m_Ika-BtHcx4xDxuRPW2LTQFzHjAyy4",
+                "category": "Hunter",
+                "sol": 40,
+                "lv": 4
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Gems",
+        "items": [
+            {
+                "id": 1,
+                "code": "#5532432",
+                "img": "https://i.picsum.photos/id/1013/100/100.jpg?hmac=QHkKzMC1GMf0kMtuHBRs3LuZGxJ6jTDtcLlxqYK2G_w",
+                "category": "Hunter",
+                "sol": 40,
+                "lv": 4
+            },
+            {
+                "id": 2,
+                "code": "#332131",
+                "img": "https://i.picsum.photos/id/755/100/100.jpg?hmac=A4wL44_wwzxFOFZaB_rlaLtszxk-UWt-p3QFwyZVIf4",
+                "category": "Scholar",
+                "sol": 70,
+                "lv": 5
+            },
+            {
+                "id": 3,
+                "code": "#441231",
+                "img": "https://i.picsum.photos/id/682/100/100.jpg?hmac=CRV5lkbIRKK3IZuKRuq_PPffgN9Zz_J5YmwK3NQiN8o",
+                "category": "Detective",
+                "sol": 120,
+                "lv": 10
+            },
+            {
+                "id": 4,
+                "code": "#400912",
+                "img": "https://i.picsum.photos/id/469/100/100.jpg?hmac=lWiAifjYaz0brBAenEGtcme-O-TuZZVUxfCEJUaSDZI",
+                "category": "Hunter",
+                "sol": 24,
+                "lv": 3
+            },
+            {
+                "id": 5,
+                "code": "#421231",
+                "img": "https://i.picsum.photos/id/840/100/100.jpg?hmac=ZGb_YpLmHxHGRAn_eGhvxTqQQKDRvo5Civdb1eRu4vY",
+                "category": "Detective",
+                "sol": 90,
+                "lv": 12
+            },
+            {
+                "id": 6,
+                "code": "#9885756",
+                "img": "https://i.picsum.photos/id/411/100/100.jpg?hmac=_YL-M86gt7uoxsBdguiRP-cyG8CE2mdfDKxmtup7qQw",
+                "category": "Hunter",
+                "sol": 150,
+                "lv": 14
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Boxes",
+        "items": [
+            {
+                "id": 1,
+                "code": "#2212312",
+                "img": "https://i.picsum.photos/id/248/100/100.jpg?hmac=vVhfFmzPmJ_WYnQT7LrSSHQxnyzMI75lj3-eAUcJ19E",
+                "category": "Scholar",
+                "sol": 40,
+                "lv": 4
+            },
+            {
+                "id": 2,
+                "code": "#0091912",
+                "img": "https://i.picsum.photos/id/985/100/100.jpg?hmac=XdeEF2QiMjOi7TdHvr96bH3GmJE3ilmPnZmkHPdaE0A",
+                "category": "Hunter",
+                "sol": 50,
+                "lv": 5
+            },
+            {
+                "id": 3,
+                "code": "#221231",
+                "img": "https://i.picsum.photos/id/692/100/100.jpg?hmac=CMrTNQngSRzwxmHrkPDytLxZjpLDqnG3LChkxWvOX30",
+                "category": "Detective",
+                "sol": 70,
+                "lv": 10
+            },
+            {
+                "id": 4,
+                "code": "#442123",
+                "img": "https://i.picsum.photos/id/482/100/100.jpg?hmac=x1HfDMjbnqIWDzBeNLjbotI2y7fBYlQCq4Ddx36EEgk",
+                "category": "Scholar",
+                "sol": 60,
+                "lv": 7
+            },
+            {
+                "id": 5,
+                "code": "#5521312",
+                "img": "https://i.picsum.photos/id/64/100/100.jpg?hmac=KlL_yWhDcqYoYuIVfC3dk5Lu8Xlel2iskAkgOiDodis",
+                "category": "Detective",
+                "sol": 90,
+                "lv": 12
+            },
+            {
+                "id": 6,
+                "code": "#6634123",
+                "img": "https://i.picsum.photos/id/894/100/100.jpg?hmac=tA_-9zrhLfilVFWzkWYrPYKKtFrt7_nb9mJifCZ6nuI",
+                "category": "Hunter",
+                "sol": 40,
+                "lv": 4
+            }
+        ]
+    }
+]
