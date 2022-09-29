@@ -1,0 +1,24 @@
+{
+    "Category": [
+        {
+            "id": 1,
+            "name": "Math",
+            "iconName": "calculator"
+        },
+        {
+            "id": 2,
+            "name": "History",
+            "iconName": "history"
+        },
+        {
+            "id": 3,
+            "name": "Physics",
+            "iconName": "balance-scale"
+        },
+        {
+            "id": 4,
+            "name": "Music",
+            "iconName": "music"
+        }
+    ]
+}

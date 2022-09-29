@@ -1,0 +1,30 @@
+{
+    "id": 2,
+    "subCategoryName": "History",
+    "content": [
+        {
+            "id": 1,
+            "value": "Germany"
+        },
+        {
+            "id": 2,
+            "value": "England"
+        },
+        {
+            "id": 3,
+            "value": "America"
+        },
+        {
+            "id": 4,
+            "value": "VietNam"
+        },
+        {
+            "id": 5,
+            "value": "Japan"
+        },
+        {
+            "id": 6,
+            "value": "China"
+        }
+    ]
+}

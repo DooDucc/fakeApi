@@ -1,0 +1,30 @@
+{
+    "id": 4,
+    "subCategoryName": "Music",
+    "content": [
+        {
+            "id": 1,
+            "value": "Measurements"
+        },
+        {
+            "id": 2,
+            "value": "Gases"
+        },
+        {
+            "id": 3,
+            "value": "Axit"
+        },
+        {
+            "id": 4,
+            "value": "Bazo"
+        },
+        {
+            "id": 5,
+            "value": "Sunfat"
+        },
+        {
+            "id": 6,
+            "value": "Clo"
+        }
+    ]
+}

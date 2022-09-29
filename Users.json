@@ -1,0 +1,42 @@
+[    
+      {
+        "id": 1,
+        "userName": "xuanthanh",
+        "password": "123456",
+        "isVerifyEmail": true,
+        "address": "Ha Noi city",
+        "avatar": "https://khoinguonsangtao.vn/wp-content/uploads/2022/05/anh-avatar-dep-ngau-hinh-dai-dien.jpg",
+        "fullname": "Nguyen Xuan Thanh",
+        "level": 5,
+        "points": 1000,
+        "country": "Viet Nam",
+        "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/230px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png"
+      },
+      {
+        "id": 2,
+        "userName": "dohoan",
+        "password": "123456",
+        "isVerifyEmail": true,
+        "address": "Ho Chi Minh city",
+        "avatar": "https://anhdephd.vn/wp-content/uploads/2022/03/anh-dai-dien-nu-deo-kinh-chat-600x600.jpg",
+        "fullname": "Do Hoan",
+        "level": 30,
+        "points": 142230,
+        "country": "Viet Nam",
+        "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/230px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png"
+      },
+      {
+        "id": 3,
+        "userName": "sontung",
+        "password": "123456",
+        "isVerifyEmail": true,
+        "address": "Hai Phong city",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaL05I34grKqr_fUqyZF_66EgF-MKGdhiQXyO2FDzc124PQduW04PlSEy5F3XV97aGloE&usqp=CAU",
+        "fullname": "Son Tung",
+        "level": 17,
+        "points": 134000,
+        "country": "Viet Nam",
+        "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg/230px-Flag_of_North_Vietnam_%281955%E2%80%931976%29.svg.png"
+    }
+]
+  

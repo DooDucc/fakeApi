@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "subCategoryName": "Math",
+    "content": [
+        {
+            "id": 1,
+            "value": "Equations"
+        },
+        {
+            "id": 2,
+            "value": "Parallel line"
+        },
+        {
+            "id": 3,
+            "value": "Polygons"
+        },
+        {
+            "id": 4,
+            "value": "Triangles"
+        },
+        {
+            "id": 5,
+            "value": "Interger"
+        },
+        {
+            "id": 6,
+            "value": "Float"
+        }
+    ]
+}
