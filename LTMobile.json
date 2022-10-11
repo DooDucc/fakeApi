@@ -24,12 +24,12 @@
         "quantity": 1,
         "description": "Boat Rockerz 450 M is an on-ear wireless headset that has been ergonomically designed to meet the needs of music lovers.",
         "isOff": false,
-        "productImage": "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/products/Boat1.png?raw=true",
+        "productImage": "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/products/boat2.png",
         "isAvailable": true,
         "productImageList": [
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/products/Boat1.png?raw=true",
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/products/Boat2.png?raw=true",
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/products/Boat3.png?raw=true"
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/products/boat1.png",
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/products/boat2.png",
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/products/boat3.png"
         ]
     },
     {
@@ -58,12 +58,12 @@
         "description": "Fly into your workouts with precise tones that inspire and energize your system with its HD sound, all the time.",
         "isOff": true,
         "offPercentage": 10,
-        "productImage": "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatairpods1.png?raw=true",
+        "productImage": "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatairpods1.png",
         "isAvailable": true,
         "productImageList": [
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatairpods1.png?raw=true",
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatairpods2.png?raw=true",
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatairpods3.png?raw=true"
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatairpods1.png",
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatairpods2.png",
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatairpods3.png"
         ]
     },
     {
@@ -74,12 +74,12 @@
         "quantity": 1,
         "description": "The unbeatable Boat signature sound shines through no matter what are you playing courtesy its 10mm drivers.",
         "isOff": false,
-        "productImage": "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatbassheads1.png?raw=true",
+        "productImage": "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatbassheads1.png",
         "isAvailable": false,
         "productImageList": [
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatbassheads1.png?raw=true",
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatbassheads2.png?raw=true",
-            "https://github.com/jaydipvidhate/shopping-app-react-native/blob/main/components/database/images/accessories/Boatbassheads3.png?raw=true"
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatbassheads1.png",
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatbassheads2.png",
+            "https://raw.githubusercontent.com/jaydipvidhate/shopping-app-react-native/main/components/database/images/accessories/boatbassheads3.png"
         ]
     },
     {
