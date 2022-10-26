@@ -2,21 +2,26 @@
     "Category": [
         {
             "id": 1,
+            "name": "IT",
+            "iconName": "code"
+        },
+        {
+            "id": 2,
             "name": "Math",
             "iconName": "calculator"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "History",
             "iconName": "history"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Physics",
             "iconName": "balance-scale"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Music",
             "iconName": "music"
         }

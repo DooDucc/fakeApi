@@ -1,30 +1,30 @@
 {
-    "id": 3,
-    "subCategoryName": "History",
+    "id": 1,
+    "subCategoryName": "IT",
     "content": [
         {
             "id": 1,
-            "value": "Germany"
+            "value": "Html"
         },
         {
             "id": 2,
-            "value": "England"
+            "value": "CSS"
         },
         {
             "id": 3,
-            "value": "America"
+            "value": "Javascript"
         },
         {
             "id": 4,
-            "value": "VietNam"
+            "value": "C"
         },
         {
             "id": 5,
-            "value": "Japan"
+            "value": "C++"
         },
         {
             "id": 6,
-            "value": "China"
+            "value": "Python"
         }
     ]
 }
